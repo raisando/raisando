@@ -1,31 +1,19 @@
-### Hi there 👋
-
-<div align="center">
-    <img src='banner.jpg' style="border-radius: 12px"> 
-</div>
-
-<br>
+### Hello there 👋
 
 <div align="center">
 
-Hello! My name is Pablo Badilla, I live in Santiago de Chile and I am currently working as a Data Scientist at [BCI](https://www.bci.cl/).
+Welcome! My name is Raimundo Sandoval. Based on Santiago, Chile and currently working at [Uber](https://www.uber.com/cl/en/about/).
 
 </div>
 
 <br>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/pablo-badilla-torrealba-473b2315b/">
+    <a href="https://www.linkedin.com/in/raimundo-sandoval-avila-a38a50138/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="mailto:pbadilla.torrealba@gmail.com">
+    <a href="mailto:raimundosandovala@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="CV.pdf">
-        <img src="https://img.shields.io/badge/Resume-Blue?style=for-the-badge&logoColor=white"/>
-    </a>
-    <a href="CV_es.pdf">
-        <img src="https://img.shields.io/badge/Resume (in spanish)-a?style=for-the-badge&logoColor=white"/>
     </a>
 </p>
 
