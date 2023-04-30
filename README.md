@@ -24,7 +24,7 @@ Welcome! My name is Raimundo Sandoval. Based on Santiago, Chile and currently wo
 
 - 💙 I love Science as a whole!
 - 🏫 Computer Science major and currently Masters on Data Science @ Universidad de Chile.
-- 👷 Currently Strategy & Operations coordinator @ [Uber](https://www.uber.com/cl/en/about/), Experience as Junior Developer (at [Timejobs](https://www.timejobs.work/cl)).
+- 👷 Strategy & Operations coordinator @ [Uber](https://www.uber.com/cl/en/about/), Experience as Junior Developer (at [Timejobs](https://www.timejobs.work/cl)).
 - 🧑‍🎓 I also teach Data Science at [Le Wagon](https://www.lewagon.com).
 - 🌟 I loooooove traveling, very privileged and lucky to have visited a decent chunk of the globe!
 - 👞⌚ Sneaker collector and watch enthusiast.
