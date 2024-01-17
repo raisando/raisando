@@ -2,7 +2,7 @@
 
 <div align="center">
 
-Welcome! My name is Raimundo Sandoval. Based on Santiago, Chile and currently working at [Uber](https://www.uber.com/cl/en/about/).
+Welcome! My name is Raimundo Sandoval. Based on Santiago, Chile and currently working @ [Uber](https://www.uber.com/cl/en/about/).
 
 </div>
 
@@ -24,8 +24,8 @@ Welcome! My name is Raimundo Sandoval. Based on Santiago, Chile and currently wo
 
 - 💙 I love Science as a whole!
 - 🏫 Computer Science major and currently doing my Masters on Data Science @ Universidad de Chile.
-- 👷 Strategy & Operations coordinator @ [Uber](https://www.uber.com/cl/en/about/), Experience as Junior Developer (at [Timejobs](https://www.timejobs.work/cl)).
-- 🧑‍🎓 I also teach Data Science at [Le Wagon](https://www.lewagon.com).
+- 👷 Strategy & Operations coordinator @ [Uber](https://www.uber.com/cl/en/about/), Experience as Junior Developer (@ [Timejobs](https://www.timejobs.work/cl)).
+- 🧑‍🎓 I also teach Data Science @ [Le Wagon](https://www.lewagon.com).
 - 🌟 I loooooove traveling, very privileged and lucky to have visited a decent chunk of the globe!
 - 👞⌚ Sneaker collector and watch enthusiast.
 - 😄 Pronouns: he/him
