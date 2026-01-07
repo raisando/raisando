@@ -2,7 +2,7 @@
 
 <div align="center">
 
-Welcome! My name is Raimundo Sandoval. Based on Santiago, Chile and currently working @ [Uber](https://www.uber.com/cl/en/about/).
+Welcome! My name is Raimundo Sandoval. Based on Santiago, Chile and currently working @ [Fintoc](https://fintoc.com).
 
 </div>
 
